@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.logo{
+    background-color: rgb(44, 15, 15);
+}
+img{
+    height: 145px;
+    margin: 100px;
+}
+.dentro{
+    background-color: brown;
+    height: 30px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding: 15px;
+}
+.imagem1{
+    height: 350px;
+    width: 350px;
+}
