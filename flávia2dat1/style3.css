@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.logo{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 50%);
+}
+.imglogo{
+    width: 300px;
+}
+.dentro{
+    background-color: brown;
+    height: 30px;
+}
+.BOTAOPRINC{
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding: 15px;
+    margin-top: 20px;
+}
+.botao{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+}
+.poppins-bold {
+    font-family: "Poppins", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 5%;
+    border: solid 0.5px black;
+    width: 42%;
+    height: 310px;
+}
+input{
+    width: 75%;
+    height: 33px;
+    border-radius: 5px;
+    border: 0.2px gray solid;
+
+}
+H1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ENVIAR{
+    background-color: maroon;
+    color: white;
+    width: 13%;
+    position: relative;
+    left: 31%;
+}
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin-top: 330px;
+}
+.RODAPEBOTAO{
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding: 15px;
+    margin-top: 20px;
+}
