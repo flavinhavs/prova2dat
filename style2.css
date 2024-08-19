@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.logo{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 50%);
+}
+.imglogo{
+    width: 300px;
+}
+.dentro{
+    background-color: brown;
+    height: 30px;
+}
+.BOTAOPRINC{
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding: 15px;
+    margin-top: 20px;
+}
+.botao{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+}
+.imgmaior1{
+    margin-top: 20px;
+    display: flex;
+    margin: 20px;
+    width: 500px;
+    height: 386px;
+    margin-left: 12%;
+}
+.img1todas{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 300px;
+    height: 200px;
+}
+.img2todas{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 317px;
+    height: 346px;
+    margin-left: 20px;
+}
+.imgmaior2{
+    display: flex;
+    width: 317px;
+    height: 336px;
+    margin: 39px;
+    margin-top: 58px;
+    margin-left: 15.1%;
+}
+.img3todas{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 317px;
+    height: 346px;
+    margin-left: 20px;
+}
+.img4todas{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 323px;
+    height: 346px;
+    margin-left: 20px;
+}
+.sobre{
+    width: 800px;
+}
+#poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-bold {
+    font-family: "Poppins", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+.poppins-medium {
+  font-family: "Poppins", system-ui;
+  font-weight: 500;
+  font-style: normal;
+}
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin-top: 176px;
+}
+.RODAPEBOTAO{
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding: 15px;
+    margin-top: 20px;
+}
